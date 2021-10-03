@@ -29,6 +29,13 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    allprojects {
+        repositories {
+            google()
+            mavenCentral()
+        }
+    }
 }
 
 dependencies {
