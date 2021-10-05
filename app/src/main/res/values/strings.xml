@@ -2,4 +2,5 @@
     <string name="app_name">CHUCK NORRIS FACTS</string>
     <string name="search_icon_title">SEARCH CHUCK NORRIS FACTS</string>
     <string name="content_description_search">SEARCH CHUCK NORRIS FACTS</string>
+    <string name="share">SHARE CHUCK NORRIS FACTS</string>
 </resources>
